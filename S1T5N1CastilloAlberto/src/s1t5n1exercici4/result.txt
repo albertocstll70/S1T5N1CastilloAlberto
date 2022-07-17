@@ -1,53 +1,70 @@
-F :/home/alberto/.bash_historyjul. 17, 2022 10:43 a. m.
-F :/home/alberto/.bash_logoutabr. 24, 2022 10:47 p. m.
-F :/home/alberto/.bashrcabr. 24, 2022 10:47 p. m.
-D :/home/alberto/.cachejul. 15, 2022 12:38 p. m.
-D :/home/alberto/.configjul. 15, 2022 12:38 p. m.
-D :/home/alberto/.diajun. 12, 2022 06:52 p. m.
-D :/home/alberto/.eclipsejul. 03, 2022 10:52 p. m.
-F :/home/alberto/.gitconfigjul. 04, 2022 01:44 a. m.
-D :/home/alberto/.gnupgjul. 15, 2022 12:38 p. m.
-D :/home/alberto/.gradlemay. 28, 2022 12:23 a. m.
-F :/home/alberto/.lesshstjul. 04, 2022 01:43 a. m.
-D :/home/alberto/.localabr. 25, 2022 12:49 a. m.
-D :/home/alberto/.m2jul. 12, 2022 09:03 a. m.
-F :/home/alberto/.mysql_historymay. 07, 2022 12:04 p. m.
-F :/home/alberto/.nvidia-settings-rcabr. 25, 2022 01:12 a. m.
-D :/home/alberto/.p2jul. 17, 2022 11:48 a. m.
-D :/home/alberto/.pkiabr. 24, 2022 10:58 p. m.
-F :/home/alberto/.profileabr. 24, 2022 10:47 p. m.
-D :/home/alberto/.sshmay. 18, 2022 06:13 a. m.
-F :/home/alberto/.sudo_as_admin_successfulabr. 24, 2022 10:52 p. m.
-D :/home/alberto/.swtabr. 24, 2022 11:32 p. m.
-F :/home/alberto/.viminfojul. 04, 2022 01:35 a. m.
-D :/home/alberto/2021-2022may. 13, 2022 09:22 p. m.
-D :/home/alberto/Descargasjul. 06, 2022 09:37 p. m.
-F :/home/alberto/Diagrama1.diajun. 14, 2022 06:53 p. m.
-D :/home/alberto/Documentosjul. 15, 2022 12:43 p. m.
-D :/home/alberto/Escritoriojul. 04, 2022 03:17 a. m.
-D :/home/alberto/IOCmay. 28, 2022 12:53 a. m.
-D :/home/alberto/IOC_programacionmay. 28, 2022 12:48 a. m.
-D :/home/alberto/IOSmay. 18, 2022 10:38 a. m.
-D :/home/alberto/Imágenesabr. 25, 2022 03:50 p. m.
-D :/home/alberto/Músicaabr. 25, 2022 12:49 a. m.
-D :/home/alberto/Plantillasabr. 25, 2022 12:49 a. m.
-D :/home/alberto/Públicoabr. 25, 2022 12:49 a. m.
-D :/home/alberto/Retosjun. 29, 2022 12:52 a. m.
-D :/home/alberto/Vídeosabr. 26, 2022 05:35 p. m.
-D :/home/alberto/archivos_base_java_soopermay. 06, 2020 11:50 a. m.
-D :/home/alberto/base de datosjun. 04, 2022 06:55 a. m.
-D :/home/alberto/defaults-extra-filemay. 08, 2022 06:12 p. m.
-D :/home/alberto/eclipsejul. 03, 2022 11:08 p. m.
-D :/home/alberto/eclipse-workspaceabr. 24, 2022 11:31 p. m.
-D :/home/alberto/ficherosjun. 04, 2022 10:48 a. m.
-D :/home/alberto/flyncerjul. 10, 2022 10:17 a. m.
-F :/home/alberto/hs_err_pid16994.logjul. 04, 2022 01:56 a. m.
-D :/home/alberto/itacademyjul. 12, 2022 09:16 a. m.
-D :/home/alberto/linkdinmay. 28, 2022 01:53 a. m.
-F :/home/alberto/machines_ldapmay. 01, 2022 11:06 a. m.
-D :/home/alberto/objetivosInicialesPOOmay. 01, 2022 10:21 a. m.
-D :/home/alberto/proyectoEulerjun. 21, 2022 06:11 p. m.
-D :/home/alberto/qemumay. 21, 2022 12:03 a. m.
-D :/home/alberto/snapmay. 06, 2022 11:58 a. m.
-D :/home/alberto/trabajojun. 21, 2022 05:50 p. m.
-F :/home/alberto/ubuntu18.04.qcow2abr. 29, 2022 11:18 p. m.
+F: .classpath  ultima modificación --> jul. 14, 2022 11:15 p. m.
+F: .gitignore  ultima modificación --> jul. 17, 2022 12:18 p. m.
+F: .project  ultima modificación --> jul. 14, 2022 11:15 p. m.
+D: .settings  ultima modificación --> jul. 14, 2022 11:15 p. m.
+F: org.eclipse.jdt.core.prefs  ultima modificación --> jul. 14, 2022 11:15 p. m.
+D: a  ultima modificación --> jul. 17, 2022 06:35 p. m.
+F: a.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: b.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: c.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: d.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+D: k  ultima modificación --> jul. 17, 2022 06:36 p. m.
+F: a.tx  ultima modificación --> jul. 17, 2022 06:35 p. m.
+F: b.tx  ultima modificación --> jul. 17, 2022 06:36 p. m.
+F: c.tx  ultima modificación --> jul. 17, 2022 06:35 p. m.
+F: d.tx  ultima modificación --> jul. 17, 2022 06:36 p. m.
+D: z  ultima modificación --> jul. 17, 2022 06:35 p. m.
+D: b  ultima modificación --> jul. 17, 2022 06:22 p. m.
+F: a.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: b.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: c.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: d.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+D: bin  ultima modificación --> jul. 17, 2022 12:44 p. m.
+D: s1t5n1exercici1  ultima modificación --> jul. 17, 2022 12:44 p. m.
+F: ListAlfa.class  ultima modificación --> jul. 17, 2022 12:44 p. m.
+F: MainExercici1.class  ultima modificación --> jul. 17, 2022 12:44 p. m.
+D: s1t5n1exercici2  ultima modificación --> jul. 17, 2022 12:44 p. m.
+F: ListAlfa2.class  ultima modificación --> jul. 17, 2022 07:05 p. m.
+F: MainExercici2.class  ultima modificación --> jul. 17, 2022 07:04 p. m.
+D: s1t5n1exercici3  ultima modificación --> jul. 17, 2022 07:11 p. m.
+F: ListAlfa3.class  ultima modificación --> jul. 17, 2022 07:13 p. m.
+F: MainExercici3.class  ultima modificación --> jul. 17, 2022 07:11 p. m.
+D: s1t5n1exercici4  ultima modificación --> jul. 17, 2022 12:44 p. m.
+F: ListAlfa4.class  ultima modificación --> jul. 17, 2022 07:17 p. m.
+F: MainExercici4.class  ultima modificación --> jul. 17, 2022 07:17 p. m.
+F: result.txt  ultima modificación --> jul. 17, 2022 12:03 p. m.
+D: s1t5n1exercici5  ultima modificación --> jul. 17, 2022 12:44 p. m.
+F: ListAlfa5.class  ultima modificación --> jul. 17, 2022 12:44 p. m.
+F: MainExercici5.class  ultima modificación --> jul. 17, 2022 12:44 p. m.
+F: copia.ser  ultima modificación --> jul. 17, 2022 12:04 p. m.
+F: result.txt  ultima modificación --> jul. 17, 2022 12:04 p. m.
+D: c  ultima modificación --> jul. 17, 2022 06:22 p. m.
+F: a.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: b.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: c.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: d.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+D: d  ultima modificación --> jul. 17, 2022 06:22 p. m.
+F: a.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: b.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: c.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+F: d.tx  ultima modificación --> jul. 17, 2022 06:21 p. m.
+D: src  ultima modificación --> jul. 16, 2022 11:10 a. m.
+D: s1t5n1exercici1  ultima modificación --> jul. 17, 2022 11:48 a. m.
+F: ListAlfa.java  ultima modificación --> jul. 17, 2022 11:49 a. m.
+F: MainExercici1.java  ultima modificación --> jul. 17, 2022 11:46 a. m.
+D: s1t5n1exercici2  ultima modificación --> jul. 15, 2022 07:22 a. m.
+F: ListAlfa2.java  ultima modificación --> jul. 17, 2022 07:05 p. m.
+F: MainExercici2.java  ultima modificación --> jul. 17, 2022 07:04 p. m.
+D: s1t5n1exercici3  ultima modificación --> jul. 17, 2022 07:13 p. m.
+F: ListAlfa3.java  ultima modificación --> jul. 17, 2022 07:13 p. m.
+F: MainExercici3.java  ultima modificación --> jul. 17, 2022 07:11 p. m.
+F: result.txt  ultima modificación --> jul. 17, 2022 07:13 p. m.
+D: s1t5n1exercici4  ultima modificación --> jul. 17, 2022 07:17 p. m.
+F: ListAlfa4.java  ultima modificación --> jul. 17, 2022 07:17 p. m.
+F: MainExercici4.java  ultima modificación --> jul. 17, 2022 07:17 p. m.
+F: result.txt  ultima modificación --> jul. 17, 2022 07:17 p. m.
+D: s1t5n1exercici5  ultima modificación --> jul. 17, 2022 12:04 p. m.
+F: ListAlfa5.java  ultima modificación --> jul. 17, 2022 12:04 p. m.
+F: MainExercici5.java  ultima modificación --> jul. 17, 2022 11:36 a. m.
+F: copia.ser  ultima modificación --> jul. 17, 2022 12:04 p. m.
+F: result.txt  ultima modificación --> jul. 17, 2022 12:04 p. m.

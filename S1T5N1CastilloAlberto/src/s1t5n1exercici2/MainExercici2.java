@@ -1,12 +1,14 @@
 package s1t5n1exercici2;
 
+
 import java.io.IOException;
 public class MainExercici2 {
 
 	public static void main(String[] args) {
 	
 		
-		String nombreDir = System.getProperty("user.home");
+		String nombreDir = System.getProperty("user.dir");
+		
 		
 		ListAlfa2 list1 = new ListAlfa2(nombreDir);
 		

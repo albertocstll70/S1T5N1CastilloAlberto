@@ -7,7 +7,7 @@ import java.io.IOException;
 public class MainExercici4 {
 
 	public static void main(String[] args) {
-	String nombreDir = System.getProperty("user.home");
+	String nombreDir = System.getProperty("user.dir");
 		
 		ListAlfa4 list1 = new ListAlfa4(nombreDir);	
 		
